@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762482935670",
+    "firebase_url": "https://pulse-monitoring-22954.firebaseio.com",
+    "project_id": "pulse-monitoring-22954",
+    "storage_bucket": "pulse-monitoring-22954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762482935670:android:166f670b5ebd778852dc57",
+        "android_client_info": {
+          "package_name": "edu.wit.mobileapp.pulsemonitoringjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762482935670-19kgk76s2petv8vmj65jgftlbmf1sttn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzy1Lisy_VOKZvJ1B8dVtsGEppTOjrufk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762482935670-19kgk76s2petv8vmj65jgftlbmf1sttn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
